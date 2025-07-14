@@ -1,5 +1,5 @@
 # [Talk To TRANSFORMER](https://samrylanjamesharris.github.io/TalkToTRANSFORMER/TTT.html)
-This document explains the eveloution of transformer models and how their impact of AI has chnaged dramatically.
+This document explains the evolution of transformer models and how their impact of AI has chnaged dramatically.
 
 ### Transformer:
 - First introduced in 2017 as a spread sheet explaining how we can turn a Neural Network into a "self-attention" mechanism.
